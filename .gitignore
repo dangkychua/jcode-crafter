@@ -42,7 +42,6 @@ app.*.map.json
 android/
 
 # Miscellaneous
-.env.prod
 *.class
 *.log
 *.pyc
