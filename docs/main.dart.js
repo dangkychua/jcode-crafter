@@ -85748,7 +85748,7 @@ r=b.a
 q=A.cf("I'm "+r.b,n,n,n,A.S(a).p3.d.FO(50,B.dT),n,n)
 p=A.S(a).p3.y.FO(16,B.cW)
 o=t.p
-p=A.b([A.jJ(A.b([A.yq(A.ff(A.b([s,q,A.rL(new A.wQ(A.b([A.agR("< Senior ServiceNow Developer />",B.dP),A.agR("< Freeclancer />",B.dP),A.agR("< Gamer />",B.dP),A.agR("< Blogger />",B.dP)],t.u6),!0,n),n,n,B.bY,!0,p,n,n,B.aY)],o),B.bl,B.jU,B.a4),1)],o),B.bl,B.az,B.a4)],o)
+p=A.b([A.jJ(A.b([A.yq(A.ff(A.b([s,q,A.rL(new A.wQ(A.b([A.agR("<Senior ServiceNow Developer/>",B.dP),A.agR("<Freeclancer />",B.dP),A.agR("<Gamer />",B.dP),A.agR("<Blogger />",B.dP)],t.u6),!0,n),n,n,B.bY,!0,p,n,n,B.aY)],o),B.bl,B.jU,B.a4),1)],o),B.bl,B.az,B.a4)],o)
 s=t.w
 if(A.bu(a,n,s).w.a.a<850)p.push(A.jJ(A.b([A.axt(A.oX("assets/images/servicenow_CSA.png",n,B.eW,100,100),B.bP),A.axu(A.oX(m,n,B.eW,100,100),B.bP)],o),B.bl,B.az,B.a4))
 if(A.bu(a,n,s).w.a.a>=1100)p.push(A.yq(A.jJ(A.b([B.kB,A.axt(A.oX(m,n,B.eW,100,100),B.bP),B.kz,A.axu(A.oX(m,n,B.eW,100,100),B.bP)],o),B.bl,B.az,B.a4),1))
@@ -85773,7 +85773,7 @@ m=$.arQ()
 l=t.p
 q=A.b([A.jM(A.awo(n,new A.mm(A.az8(k,k,new A.jx(m[B.B2.alw(m.length)],1)),k,k,k,B.lw,!1,k)),q,o)],l)
 if(A.bu(a,k,s).w.a.a>=1100)q.push(new A.KT(r,p,this.c,k))
-s=o*0.6
+s=o*0.8
 return A.azn(A.ff(A.b([A.q8(B.cL,q,B.ab,B.cE),B.kA,A.cw(k,new A.Ll(r,k),B.t,k,new A.av(0,s,0,1/0),k,k,k,p.h(0,"About"),k,B.fb,k,k,k),A.cw(k,B.Lx,B.t,k,new A.av(0,s,0,1/0),k,k,k,p.h(0,"Services"),k,B.fb,k,k,1/0),B.kA,A.cw(k,k,B.t,k,new A.av(0,s,0,1/0),k,k,k,p.h(0,"Recent Works"),k,B.fb,k,k,1/0),B.kA,A.cw(k,k,B.t,k,new A.av(0,s,0,1/0),k,k,k,p.h(0,"Contact"),k,B.fb,k,k,1/0)],l),B.ax,B.az,B.a4),j,k)}}
 A.Nx.prototype={
 I(a){return new A.HV(1.5,A.m4(new A.abg(),t.Mh,t.ni),null)}}
