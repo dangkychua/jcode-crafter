@@ -85751,11 +85751,12 @@ o=t.p
 p=A.b([s,q,A.rL(new A.wQ(A.b([A.agR("< Senior ServiceNow Developer />",B.dP),A.agR("< Freeclancer />",B.dP),A.agR("< Gamer />",B.dP),A.agR("< Blogger />",B.dP)],t.u6),!0,n),n,n,B.bY,!0,p,n,n,B.aY)],o)
 s=t.w
 if(A.bu(a,n,s).w.a.a<850)p.push(A.jJ(A.b([A.axt(A.oX("assets/images/servicenow_CSA.png",n,B.eW,100,100),B.bP),A.axu(A.oX(m,n,B.eW,100,100),B.bP)],o),B.bl,B.az,B.a4))
-q=A.b([A.yq(A.ff(p,B.bl,B.jU,B.a4),1)],o)
+q=A.b([A.jJ(A.b([A.yq(A.ff(p,B.bl,B.jU,B.a4),1)],o),B.bl,B.az,B.a4)],o)
 if(!(A.bu(a,n,s).w.a.a<850))q.push(A.yq(A.jJ(A.b([B.kB,A.axt(A.oX(m,n,B.eW,100,100),B.bP),B.kz,A.axu(A.oX(m,n,B.eW,100,100),B.bP)],o),B.bl,B.az,B.a4),1))
-s=A.jJ(q,B.bl,B.az,B.a4)
-r=A.cf(r.w,n,n,n,A.S(a).p3.y.Sl(18),n,n)
-return A.ff(A.b([s,B.eI,new A.yu(r,B.bP,n)],o),B.bl,B.az,B.a4)}if(b instanceof A.iq)return A.eL(A.cf(b.a,n,n,n,n,n,n),n,n)
+q.push(B.eI)
+s=A.cf(r.w,n,n,n,A.S(a).p3.y.Sl(18),n,n)
+q.push(new A.yu(s,B.bP,n))
+return A.ff(q,B.bl,B.az,B.a4)}if(b instanceof A.iq)return A.eL(A.cf(b.a,n,n,n,n,n,n),n,n)
 return A.cw(n,n,B.t,n,n,n,n,n,n,n,n,n,n,n)},
 $S:33}
 A.LQ.prototype={
