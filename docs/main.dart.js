@@ -85400,7 +85400,7 @@ p===$&&A.a()
 s=4
 return A.U(p.vW(m),$async$te)
 case 4:o=b
-if(B.d.q(o,"`[DUMP CHAT]`"))$.aCP=!0
+if(B.d.q(o,"[DUMP CHAT]"))$.aCP=!0
 p=q.x
 p.push(new A.xs(m,B.lV))
 p.push(new A.xs(o,B.ip))
