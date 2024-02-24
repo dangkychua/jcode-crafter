@@ -85748,15 +85748,14 @@ r=b.a
 q=A.cf("I'm "+r.b,n,n,n,A.S(a).p3.d.FO(50,B.dT),n,n)
 p=A.S(a).p3.y.FO(16,B.cW)
 o=t.p
-p=A.b([s,q,A.rL(new A.wQ(A.b([A.agR("< Senior ServiceNow Developer />",B.dP),A.agR("< Freeclancer />",B.dP),A.agR("< Gamer />",B.dP),A.agR("< Blogger />",B.dP)],t.u6),!0,n),n,n,B.bY,!0,p,n,n,B.aY)],o)
+p=A.b([A.jJ(A.b([A.yq(A.ff(A.b([s,q,A.rL(new A.wQ(A.b([A.agR("< Senior ServiceNow Developer />",B.dP),A.agR("< Freeclancer />",B.dP),A.agR("< Gamer />",B.dP),A.agR("< Blogger />",B.dP)],t.u6),!0,n),n,n,B.bY,!0,p,n,n,B.aY)],o),B.bl,B.jU,B.a4),1)],o),B.bl,B.az,B.a4)],o)
 s=t.w
 if(A.bu(a,n,s).w.a.a<850)p.push(A.jJ(A.b([A.axt(A.oX("assets/images/servicenow_CSA.png",n,B.eW,100,100),B.bP),A.axu(A.oX(m,n,B.eW,100,100),B.bP)],o),B.bl,B.az,B.a4))
-q=A.b([A.jJ(A.b([A.yq(A.ff(p,B.bl,B.jU,B.a4),1)],o),B.bl,B.az,B.a4)],o)
-if(!(A.bu(a,n,s).w.a.a<850))q.push(A.yq(A.jJ(A.b([B.kB,A.axt(A.oX(m,n,B.eW,100,100),B.bP),B.kz,A.axu(A.oX(m,n,B.eW,100,100),B.bP)],o),B.bl,B.az,B.a4),1))
-q.push(B.eI)
+if(A.bu(a,n,s).w.a.a>=1100)p.push(A.yq(A.jJ(A.b([B.kB,A.axt(A.oX(m,n,B.eW,100,100),B.bP),B.kz,A.axu(A.oX(m,n,B.eW,100,100),B.bP)],o),B.bl,B.az,B.a4),1))
+p.push(B.eI)
 s=A.cf(r.w,n,n,n,A.S(a).p3.y.Sl(18),n,n)
-q.push(new A.yu(s,B.bP,n))
-return A.ff(q,B.bl,B.az,B.a4)}if(b instanceof A.iq)return A.eL(A.cf(b.a,n,n,n,n,n,n),n,n)
+p.push(new A.yu(s,B.bP,n))
+return A.ff(p,B.bl,B.az,B.a4)}if(b instanceof A.iq)return A.eL(A.cf(b.a,n,n,n,n,n,n),n,n)
 return A.cw(n,n,B.t,n,n,n,n,n,n,n,n,n,n,n)},
 $S:33}
 A.LQ.prototype={
