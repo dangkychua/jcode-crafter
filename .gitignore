@@ -42,7 +42,8 @@ app.*.map.json
 android/
 
 # Miscellaneous
-env.prod
+*env.dev
+*env.prod
 *.class
 *.log
 *.pyc
@@ -54,3 +55,4 @@ env.prod
 .svn/
 *.bat
 scripts/
+*.yml
